@@ -1,7 +1,6 @@
 ---
 title: "Wednesday Addams"
 subtitle: "Data Science resume built with R Quarto markdown"
-body-footer: "ddd"
 format: docx
 ---
 
